@@ -1,0 +1,15 @@
+{
+    "pack.mauraud.name": "Mining and Maurauding",
+    "pack.mauraud.load": "Loaded",
+
+    "text.mauraud.world_generation.warn": "You may lag while terrain is being generated",
+
+    "entity.mauraud.ore_spirit": "Ore Spirit",
+    "entity.mauraud.undead_miner": "Undead Miner",
+    "entity.mauraud.spelunker_scientist": "Researching Spelunker",
+    "entity.mauraud.spelunker_miner": "Gathering Spelunker",
+
+    "item.mauraud.miner_helmet": "Miner's Helmet",
+    "item.mauraud.spirit_orb": "Spirit Orb",
+    "item.mauraud.spirit_orb.pickaxe.lore": "Infused with pure mineral energy"
+}

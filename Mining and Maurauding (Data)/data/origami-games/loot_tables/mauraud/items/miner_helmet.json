@@ -1,0 +1,19 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:golden_helmet",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{display:{Name:'{\"translate\":\"item.mauraud.miner_helmet\",\"italic\":false}'},CustomModelData:1,origami-games:{mauraud:{item:\"miner_helmet\"}}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
